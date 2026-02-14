@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ループ",
+  "base_artist": "slept.",
+  "createdAt": "2026-02-14T10:43:24.885143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ループ",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/01_ループ_ClariS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loop & Loop [ループ & ループ]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Loop_&_Loop_[ループ_&_ループ]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loop&Loop 2016 [ループ&ループ 2016]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Loop&Loop_2016_[ループ&ループ_2016]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mugen Loop [∞ループ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_Mugen_Loop_[∞ループ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ループ&ループ (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_ループ&ループ_(2016)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ループ&ループ",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_ループ&ループ_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ループ＆ループ",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_ループ&ループ_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ループ＆ループ (2016 Version) (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_ループ&ループ_(2016_Version)_(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ループ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/09_ループ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ループ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/10_ループ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ループ & ループ",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/11_ループ_&_ループ_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loop & Loop (ループ&ループ Rūpu & Rūpu)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/12_Loop_&_Loop_(ループ&ループ_Rūpu_&_Rūpu)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "∞ループ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/13_∞ループ_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ループ (TVサイズ)",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/14_ループ_(TVサイズ)_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ループ&ループ",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/15_ループ&ループ_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ループ",
+      "artist": "slept.",
+      "has_synced": false,
+      "path": "select/pl_01_ループ_slept..txt"
+    }
+  ]
+}
